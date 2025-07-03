@@ -138,7 +138,7 @@ curl -X POST "http://localhost:8000/analyze" \
 | 🔄 **Async Issues**     | Added missing `await` statements in async flows   |
 | 🧠 **Tool Logic**       | Cleaned up functions for stability and modularity |
 | 🔂 **Max Iterations**   | Controlled runaway loops in CrewAI configurations |
-
+Note: I could have given better prompts than the ones here, but due to token limit,LLM was failing so i had to refine and cut down the prompts alot, hope you'd understand.
 ---
 
 ## 📦 Requirements
