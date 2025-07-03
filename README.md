@@ -1,6 +1,3 @@
-Here's a cleaned-up, professional, and more readable version of your README with the improvements and specific challenges you faced clearly addressed:
-
----
 
 # 🧪 Blood Test Analyser API
 
@@ -161,4 +158,3 @@ MIT
 
 ---
 
-Let me know if you want a badge section, project structure diagram, or deployment instructions (e.g., with Docker or Railway).
